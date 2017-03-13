@@ -1,0 +1,48 @@
+[
+    {
+        "key": "group_58b86b97bf6fa",
+        "title": "\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0430\u043a\u0446\u0438\u0438",
+        "fields": [
+            {
+                "key": "field_58b86bd4249be",
+                "label": "currency",
+                "name": "currency",
+                "type": "number",
+                "instructions": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0430\u043a\u0446\u0438\u0438",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": "",
+                "max": "",
+                "step": "",
+                "readonly": 0,
+                "disabled": 0
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "sale"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    }
+]
